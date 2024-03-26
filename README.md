@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-index.html:
+###index.html:
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -58,7 +58,7 @@ index.html:
         <div class="content">
           <p class="subtitle">HELLO</p>
           <h1 class="title">
-            I'm <span>Pavithra<br />a</span> Student
+            I'm <span>Pavithra<br />a</span> Student 
           </h1>
           <p class="description">
             Welcome to my portfolio! I'm pavithra, a highly desired person looking to
@@ -78,7 +78,7 @@ index.html:
   </body>
 </html>
 
-style.css:
+###style.css:
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
 :root {
