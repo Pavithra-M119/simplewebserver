@@ -21,7 +21,8 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-###index.html:
+```
+##index.html:
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -299,6 +300,7 @@ ul li a:hover {
     margin: auto;
   }
 }
+```
 
 ##OUTPUT:
 
