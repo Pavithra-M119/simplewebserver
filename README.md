@@ -8,7 +8,7 @@ To develop a simple webserver to serve html pages.
 ### Step 1: 
 HTML content creation.
 
-### Step 2:
+### Step 2: 
 Design of webserver workflow.
 
 ### Step 3:
